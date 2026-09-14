@@ -30,6 +30,18 @@ dashboard, backed by a real REST API and MongoDB.
 - Rate limiting, Helmet, CORS
 - Responsive: desktop / tablet / mobile, distinct layouts, not just scaled-down
 
+## Screenshots
+
+| Home | Product Details | Cart |
+|------|------------------|------|
+| ![Home](./screenshots/home.png) | ![Product Details](./screenshots/product-details.png) | ![Cart](./screenshots/cart.png) |
+
+| Checkout | Order History | Admin Dashboard |
+|----------|----------------|------------------|
+| ![Checkout](./screenshots/checkout.png) | ![Order History](./screenshots/order-history.png) | ![Admin Dashboard](./screenshots/admin-dashboard.png) |
+
+> Drop your PNG/JPG files in a `screenshots/` folder at repo root, using the filenames above (or edit paths to match yours).
+
 ## Tech Stack
 
 | Layer      | Tech                                                              |
